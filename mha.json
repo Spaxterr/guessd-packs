@@ -1,0 +1,321 @@
+{
+    "name": "My Hero Academia",
+    "characters": [
+        {
+            "name": "All Might",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehBecGyI0nfrnWHZzQ4Pn-QDTlqfskXkyqP_nSUNasQ&s=10"
+        },
+        {
+            "name": "Izuku Midoriya",
+            "imageUrl": "https://static.wikitide.net/deathbattlewiki/8/83/Portrait.deku.png"
+        },
+        {
+            "name": "Denki Kaminari",
+            "imageUrl": "https://nxsnjqfqtwiaoedulnpr.supabase.co/storage/v1/object/public/tag-images/characters/2a19e4df-bcdd-46ca-b6fc-51ba06a6a9a5/1773780587480.png"
+        },
+        {
+            "name": "Eijiro Kirishima",
+            "imageUrl": "https://static.wikia.nocookie.net/bnha-weasy-au/images/c/c6/Eijiro_Kirishima_3.png/revision/latest?cb=20220130111053"
+        },
+        {
+            "name": "Fumikage Tokoyami",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7yATh0PHZ6wNnepCjMA5OHPAwYFWk-8tSP8s7vCfHA&s=10"
+        },
+        {
+            "name": "Katsuki Bakugo",
+            "imageUrl": "https://i0.wp.com/blerdyotome.com/wp-content/uploads/2018/03/katsuki-2.png?resize=640%2C360&ssl=1"
+        },
+        {
+            "name": "Kurogiri",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTvUehkycu52soBjj-rw_JcvpNSjxO_XXj2VTiiXEiZoVnVc4uta5uNm4&s=10"
+        },
+        {
+            "name": "Kyoka Jiro",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuTeLB2lt3Twkd7A3eONLivTPAYt3LhqZyKQEtLUDAGfPIh60TufzYs0&s=10"
+        },
+        {
+            "name": "Mezo Shoji",
+            "imageUrl": "https://i.redd.it/1yzrt2nh39md1.jpg"
+        },
+        {
+            "name": "Mina Ashido",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/06/mha-mina-ashido.jpg?w=1200&h=675&fit=crop"
+        },
+        {
+            "name": "Minoru Mineta",
+            "imageUrl": "https://i.redd.it/zmbayj99oumd1.jpg"
+        },
+        {
+            "name": "Momo Yaoyorozu",
+            "imageUrl": "https://i.pinimg.com/736x/ef/53/70/ef53709e2f4feacaf256dd5bcd23e97b.jpg"
+        },
+        {
+            "name": "Ochaco Uraraka",
+            "imageUrl": "https://static.wikia.nocookie.net/pure-good-wiki/images/8/8e/Ochaco_Uraraka_Post_Timeskip.png/revision/latest?cb=20260730163542"
+        },
+        {
+            "name": "Shota Aizawa",
+            "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/5/5e/Shota_Scar_Portrait.png/revision/latest/scale-to-width-down/250?cb=20250706020306"
+        },
+        {
+            "name": "Shoto Todoroki",
+            "imageUrl": "https://i.pinimg.com/originals/6f/4e/33/6f4e336bae1fd9baf306fd9ea7814bbd.jpg"
+        },
+        {
+            "name": "Tenya Iida",
+            "imageUrl": "https://i.redd.it/a2ie1yklzvjd1.jpg"
+        },
+        {
+            "name": "Tomura Shigaraki",
+            "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/shigaraki-hand-Cropped.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+            "name": "Tsuyu Asui",
+            "imageUrl": "https://i.pinimg.com/736x/b5/e1/e0/b5e1e0aa432cb69a2e99eb2987be816a.jpg"
+        },
+        {
+            "name": "Yuga Aoyama",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OYU5BmDOYRk1dFai3u3F52Ie7AIEG2Ywq52jpj22J3CBT6EdwxDgXJ5B&s=10"
+        },
+        {
+            "name": "All For One",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWQ5ZmIwN2YtOTRhMy00YjhmLTkxYjItZWVmYmI3ZjY1NTBhXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+            "name": "Best Jeanist",
+            "imageUrl": "https://i.pinimg.com/736x/19/30/f3/1930f3c441c0bb39ec4396089e511761.jpg"
+        },
+        {
+            "name": "Cementoss",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Ok9yVSI2Qi11BMAbM-u_5OsX2JNH9Wx4Tu2gCoIZsdP_52fOMQ8XyWMn&s=10"
+        },
+        {
+            "name": "Daruma Ujiko",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SM6IO9xbbvikkB3oKnaYS7DvUPuDojb9AQik-Pu8ZIjjYrJLS5haQXQ&s=10"
+        },
+        {
+            "name": "Death Arms",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/08/Death-Arms.jpg?q=50&fit=crop&w=825&dpr=1.5"
+        },
+        {
+            "name": "Tatsuma Ryuko",
+            "imageUrl": "https://static.wikia.nocookie.net/five-world-war/images/e/e4/Dragon_Ryuko.png/revision/latest?cb=20220119235527"
+        },
+        {
+            "name": "Ectoplasm",
+            "imageUrl": "https://i.pinimg.com/474x/2a/09/ef/2a09ef3e59000c153c626301f95f9725.jpg"
+        },
+        {
+            "name": "Endeavor",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/01/endeavor-with-a-hand.jpg?w=1200&h=675&fit=crop"
+        },
+        {
+            "name": "Female Reporter",
+            "imageUrl": "https://static.wikia.nocookie.net/xianb/images/4/4d/My_Hero_Academia_Season_7_Episode_18_0714.jpg/revision/latest/scale-to-width-down/250?cb=20241017234315"
+        },
+        {
+            "name": "Hanta Sero",
+            "imageUrl": "https://i.pinimg.com/736x/4e/54/0c/4e540c98bcf2702591eda4231a8b1e98.jpg"
+        },
+        {
+            "name": "Hard Head",
+            "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b0/Hard_Head.png/revision/latest/scale-to-width-down/1200?cb=20250616132826"
+        },
+        {
+            "name": "Hound Dog",
+            "imageUrl": "https://i.redd.it/d8965wh5bksd1.png"
+        },
+        {
+            "name": "Inko Midoriya",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZ2wMXo7gVKYcvq40DF_D5uzY4AWHKSfm3a6Tx7R9kA&s=10"
+        },
+        {
+            "name": "Kamui Woods",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8kQp9OJG8MyU3700PVLLJ-M01V4BjAMdXZJXokL1LMEr673CMGLs54g&s=10"
+        },
+        {
+            "name": "Koji Koda",
+            "imageUrl": "https://i.redd.it/qpptnd9s88vg1.jpg"
+        },
+        {
+            "name": "Mashirao Ojiro",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WLZHb2N__OSl7X13uSLZXSQ0d4jrY8ZgTeESzgiessvYUTjngg9o2jk&s=10"
+        },
+        {
+            "name": "Midnight",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/02/My-Hero-Academia-Midnight.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+            "name": "Mount Lady",
+            "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/mtlady-run.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+            "name": "Muscle Man",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/07/Muscular-Cropped-1.jpg?q=50&fit=crop&w=825&dpr=1.5"
+        },
+        {
+            "name": "Naomasa Tsukauchi",
+            "imageUrl": "https://i.pinimg.com/736x/13/bd/f7/13bdf76c15503f769891572735464524.jpg"
+        },
+        {
+            "name": "Nezu",
+            "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/f/f9/Nezu_drives_a_crane.png/revision/latest?cb=20250710025813"
+        },
+        {
+            "name": "Present Mic",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBs9cWq9e8z1G2TOdpiDT1hX12sAsH1BhoBykJnPXq125zEWqFa6L5se8&s=10"
+        },
+        {
+            "name": "Recovery Girl",
+            "imageUrl": "https://static.wikia.nocookie.net/five-world-war/images/7/73/Chiyo.png/revision/latest?cb=20190323225305"
+        },
+        {
+            "name": "Rikido Sato",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9PFdVHEbncRVEWrDKDEsyL1IJKEnIOEdWKCN2FjdPP7Hf4ZNnyTUF7Pc&s=10"
+        },
+        {
+            "name": "Snipe",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkj_iq4ktOZrcbyqaaRKsNYIbzeDXquZEyHJdhTi7Lsl1inhUm9UNUzI&s=10"
+        },
+        {
+            "name": "Stain",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9hejZKQ4kqMFGNbPSzuOmb4lwF1CybIJVqBg52ztvq1ZskoM56CbIg6K5&s=10"
+        },
+        {
+            "name": "Thirteen",
+            "imageUrl": "https://i.redd.it/d1g0e0wok26g1.jpeg"
+        },
+        {
+            "name": "Toru Hagakure",
+            "imageUrl": "https://i.redd.it/x7brawzfe1dh1.jpg"
+        },
+        {
+            "name": "Vlad King",
+            "imageUrl": "https://static.wikia.nocookie.net/bnha-weasy-au/images/2/27/Vlad_King_icon.png/revision/latest?cb=20241013102113"
+        },
+        {
+            "name": "Eri",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eqPorQuVPKrexig8GJJo9mqOoesvBPUyH9eEu3jhwUKfdu3ccSSmRK0&s=10"
+        },
+        {
+            "name": "Overhaul",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWExMWE2ZGYtNzNkNy00NGJjLWFlZTgtNDM5NDJjYWQ5MjEzXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+            "name": "Dabi",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTHn5lWzy1T198qD5kCR_rfDYmzyW9m7UwA89W-tsVfm77tTcmgfvGB4J&s=10"
+        },
+        {
+            "name": "Himiko Toga",
+            "imageUrl": "https://i.pinimg.com/736x/33/e5/69/33e569e6c7cf92ddaa28dd7520152165.jpg"
+        },
+        {
+            "name": "Gran Torino",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjwGRPBAiX4CGQ9tEjjO1zD5JQIBcErq356lKJ3GAO_lJoh6BfX7gX5xc4&s=10"
+        },
+        {
+            "name": "Nana Shimura",
+            "imageUrl": "https://static.wikia.nocookie.net/five-world-war/images/2/2f/Nana_Shimura_anime.png/revision/latest?cb=20210609234318"
+        },
+        {
+            "name": "Ibara Shiozaki",
+            "imageUrl": "https://i.redd.it/7ne4ck1bo4db1.jpg"
+        },
+        {
+            "name": "Itsuka Kendo",
+            "imageUrl": "https://i.redd.it/ppvra793vm1b1.jpg"
+        },
+        {
+            "name": "Neito Monoma",
+            "imageUrl": "https://preview.redd.it/about-monoma-shouldnt-he-be-the-most-overpowered-character-v0-z9v32gs2w5g61.jpg?width=960&format=pjpg&auto=webp&s=23f9638206bb75cf701fda6ce141efb8b77b0a13"
+        },
+        {
+            "name": "Mirio Togata",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYZf25A2N7GEyaAmTHhWG27SV8aPtqm1CVoZasDlEadA&s=10"
+        },
+        {
+            "name": "Nejire Hado",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSovW-zF_CH2-rR8QO8tPRtjtVLwP7OaBNnYAbS6k80bGaQeYyWMk8W7HJw&s=10"
+        },
+        {
+            "name": "Tamaki Amajiki",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS82GN61fBrG5FeznlwC_8AlpUPH7hZwrnJY8HBL_dWHJwB8Dtod1dKLerV&s=10"
+        },
+        {
+            "name": "Hitoshi Shinso",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKau6dEOiKVjptJwcB5Xpn5Zk2ar8rLdea8gXRO8ZG_w_VACiYu-aNI4&s=10"
+        },
+        {
+            "name": "Mei Hatsume",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZNrR0mJJYUxOM4hUy0muh8yh-s3CHno47hBKz0GNU0WVU7C-EMNlUiY&s=10"
+        },
+        {
+            "name": "Edgeshot",
+            "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/12/Edgeshot-hero.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+            "name": "Hawks",
+            "imageUrl": "https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b7/Hawks_talks_about_his_ideal_world_for_heroes.png/revision/latest?cb=20251020042612"
+        },
+        {
+            "name": "Mirko",
+            "imageUrl": "https://i.pinimg.com/originals/c1/98/60/c198609e62cf0c63292df79d149db07e.jpg"
+        },
+        {
+            "name": "Sir Nighteye",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhZZSCjnNXPT1FSBQDawm2v7zRkBZnjNmV4AIzi13TKQwYCi7VUougJRZ&s=10"
+        },
+        {
+            "name": "Lady Nagant",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Sl_2OKM9DuAq9e3YgRkAb6Jzo7lw4J93C0jIrOw_Ng&s=10"
+        },
+        {
+            "name": "Gentle Criminal",
+            "imageUrl": "https://i.redd.it/0b0nfd2ncxib1.jpg"
+        },
+        {
+            "name": "La Brava",
+            "imageUrl": "https://i.pinimg.com/736x/9d/55/c8/9d55c83d1782ebfdef0ea1bc736c58bb.jpg"
+        },
+        {
+            "name": "Nine",
+            "imageUrl": "https://i.redd.it/gdu0dqp6wn1g1.jpeg"
+        },
+        {
+            "name": "Kota",
+            "imageUrl": "https://static.wikia.nocookie.net/five-world-war/images/7/73/Kota.jpg/revision/latest?cb=20211115152846"
+        },
+        {
+            "name": "Tetsutetsu Tetsutetsu",
+            "imageUrl": "https://i.redd.it/8t7n30j0576f1.jpeg"
+        },
+        {
+            "name": "Fat Gum",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtvu88z29wEafTEpok8gvSLwM3HqG4BDACduA4A7PEkC6gDHbnQBP_CDI&s=10"
+        },
+        {
+            "name": "Gang Orca",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0jOiC1sv-VDPvPsrt3gfBrTCAfenyAaA-VlI7p6GgICGa4DtNtiZZyc&s=10"
+        },
+        {
+            "name": "Star and Stripe",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxGQ4SOsGhj_1Cpz-cnn7bpoBcO3F-ZC-C6-tbT1LLEdcqNtcxgYyvQGM&s=10"
+        },
+        {
+            "name": "Spinner",
+            "imageUrl": "https://preview.redd.it/spinners-quirk-lets-him-stick-to-walls-do-you-think-that-v0-0g26sm579r1g1.png?width=640&crop=smart&auto=webp&s=e9d6ca57969e87f68ffa40a1cbd5d98a0c2b6fb3"
+        },
+        {
+            "name": "Twice",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjo-vKA9UDZJLdlfz7SY75JbUKAU4xbj4np9XZe46a3u6mMJVV8UA48_l&s=10"
+        },
+        {
+            "name": "Rody Soul",
+            "imageUrl": "https://static.wikia.nocookie.net/asias-crossover/images/3/30/Rody_Soul_Infobox_profile.png/revision/latest?cb=20230717001951"
+        },
+        {
+            "name": "Mr. Compress",
+            "imageUrl": "https://static.wikia.nocookie.net/villainstournament/images/c/cc/Mr._Compress.jpeg/revision/latest?cb=20210812190958"
+        }
+    ]
+}

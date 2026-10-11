@@ -1,0 +1,635 @@
+{
+    "name": "Minecraft Mobs",
+    "characters": [
+        {
+            "name": "Allay",
+            "alternativeNames": [
+                "allay"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Allay_JE2_BE2.gif?aca63"
+        },
+        {
+            "name": "Armadillo",
+            "alternativeNames": [
+                "armadillo"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Armadillo_JE2_BE2.png/300px-Armadillo_JE2_BE2.png?9cdf1"
+        },
+        {
+            "name": "Axolotl",
+            "alternativeNames": [
+                "axolotl"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Axolotl_Idle_Floor_Underwater.gif/300px-Axolotl_Idle_Floor_Underwater.gif?20bba"
+        },
+        {
+            "name": "Bat",
+            "alternativeNames": [
+                "bat"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Bat_JE4_BE3.gif?db68c"
+        },
+        {
+            "name": "Bee",
+            "alternativeNames": [
+                "bee"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Baby_Bee_JE2.gif/300px-Baby_Bee_JE2.gif?693e6"
+        },
+        {
+            "name": "Blaze",
+            "alternativeNames": [
+                "blaze"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Blaze_JE2.gif?29f6f"
+        },
+        {
+            "name": "Bogged",
+            "alternativeNames": [
+                "bogged"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Bogged_JE2_BE2.png/300px-Bogged_JE2_BE2.png?55cb9"
+        },
+        {
+            "name": "Breeze",
+            "alternativeNames": [
+                "breeze"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Breeze_BE1_JE2.webp?87e5c"
+        },
+        {
+            "name": "Camel",
+            "alternativeNames": [
+                "camel"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Camel_Idle.gif/300px-Camel_Idle.gif?72667"
+        },
+        {
+            "name": "Camel Husk",
+            "alternativeNames": [
+                "camel_husk"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Camel_Husk_Idle_JE1.gif/300px-Camel_Husk_Idle_JE1.gif?4ee1a"
+        },
+        {
+            "name": "Cat",
+            "alternativeNames": [
+                "cat"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Jellie_Cat.png/300px-Jellie_Cat.png?e5d99"
+        },
+        {
+            "name": "Cave Spider",
+            "alternativeNames": [
+                "cave_spider"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Cave_Spider_JE3_BE3.png/300px-Cave_Spider_JE3_BE3.png?86c1d"
+        },
+        {
+            "name": "Chicken",
+            "alternativeNames": [
+                "chicken"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Chicken_JE2_BE2.png/300px-Chicken_JE2_BE2.png?30245"
+        },
+        {
+            "name": "Cod",
+            "alternativeNames": [
+                "cod"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Cod.gif?fe8d7"
+        },
+        {
+            "name": "Copper Golem",
+            "alternativeNames": [
+                "copper_golem"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Copper_Golem_JE1_BE1.png?3c87d"
+        },
+        {
+            "name": "Cow",
+            "alternativeNames": [
+                "cow"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Cow_JE7_BE4.png/300px-Cow_JE7_BE4.png?3de94"
+        },
+        {
+            "name": "Creaking",
+            "alternativeNames": [
+                "creaking"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Creaking_JE1_BE1.png?1a8ab"
+        },
+        {
+            "name": "Creeper",
+            "alternativeNames": [
+                "creeper"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Creeper_JE3_BE1.png/300px-Creeper_JE3_BE1.png?40005"
+        },
+        {
+            "name": "Dolphin",
+            "alternativeNames": [
+                "dolphin"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Dolphin.gif/300px-Dolphin.gif?2581a"
+        },
+        {
+            "name": "Donkey",
+            "alternativeNames": [
+                "donkey"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Donkey_JE5.png/300px-Donkey_JE5.png?9e2a1"
+        },
+        {
+            "name": "Drowned",
+            "alternativeNames": [
+                "drowned"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Drowned_JE2.png/300px-Drowned_JE2.png?408ba"
+        },
+        {
+            "name": "Elder Guardian",
+            "alternativeNames": [
+                "elder_guardian"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Elder_Guardian_JE2_BE2.gif?99f67"
+        },
+        {
+            "name": "Ender Dragon",
+            "alternativeNames": [
+                "ender_dragon"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Ender_Dragon_JE1_BE1.png/300px-Ender_Dragon_JE1_BE1.png?69608"
+        },
+        {
+            "name": "Enderman",
+            "alternativeNames": [
+                "enderman"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Enderman_JE3.png/300px-Enderman_JE3.png?c6308"
+        },
+        {
+            "name": "Endermite",
+            "alternativeNames": [
+                "endermite"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Endermite.gif?920c2"
+        },
+        {
+            "name": "Evoker",
+            "alternativeNames": [
+                "evoker"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Evoker_Summoning_Vexes.png/300px-Evoker_Summoning_Vexes.png?15d33"
+        },
+        {
+            "name": "Fox",
+            "alternativeNames": [
+                "fox"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Fox_JE1_BE1.png/300px-Fox_JE1_BE1.png?ebd36"
+        },
+        {
+            "name": "Frog",
+            "alternativeNames": [
+                "frog"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Temperate_Frog_JE1_BE1.gif?5a0ff"
+        },
+        {
+            "name": "Ghast",
+            "alternativeNames": [
+                "ghast"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Ghast_JE3_BE3.gif/300px-Ghast_JE3_BE3.gif?ae9fb"
+        },
+        {
+            "name": "Giant",
+            "alternativeNames": [
+                "giant"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zombie_JE5_BE2.png/300px-Zombie_JE5_BE2.png?d709c"
+        },
+        {
+            "name": "Glow Squid",
+            "alternativeNames": [
+                "glow_squid"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Glow_Squid_JE1.gif?dcad8"
+        },
+        {
+            "name": "Goat",
+            "alternativeNames": [
+                "goat"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Goat_%28two_horns%29_JE1_BE1.png/300px-Goat_%28two_horns%29_JE1_BE1.png?a5c0c"
+        },
+        {
+            "name": "Guardian",
+            "alternativeNames": [
+                "guardian"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Guardian_JE2_BE2.gif?19e5a"
+        },
+        {
+            "name": "Happy Ghast",
+            "alternativeNames": [
+                "happy_ghast"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Happy_Ghast_JE1_BE1.gif/300px-Happy_Ghast_JE1_BE1.gif?ae2ce"
+        },
+        {
+            "name": "Hoglin",
+            "alternativeNames": [
+                "hoglin"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Hoglin_JE3.png/300px-Hoglin_JE3.png?65eaa"
+        },
+        {
+            "name": "Horse",
+            "alternativeNames": [
+                "horse"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/White_Horse.png/300px-White_Horse.png?f3f6e"
+        },
+        {
+            "name": "Husk",
+            "alternativeNames": [
+                "husk"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Husk_JE4_BE2.png/300px-Husk_JE4_BE2.png?a6767"
+        },
+        {
+            "name": "Illusioner",
+            "alternativeNames": [
+                "illusioner"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Illusioner_Casting.png/300px-Illusioner_Casting.png?2f926"
+        },
+        {
+            "name": "Iron Golem",
+            "alternativeNames": [
+                "iron_golem"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Iron_Golem_JE2_BE2.png/300px-Iron_Golem_JE2_BE2.png?2cd73"
+        },
+        {
+            "name": "Llama",
+            "alternativeNames": [
+                "llama"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/White_Llama_JE2_BE2.png/300px-White_Llama_JE2_BE2.png?c9d61"
+        },
+        {
+            "name": "Magma Cube",
+            "alternativeNames": [
+                "magma_cube"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Magma_Cube_JE2_BE2.png/300px-Magma_Cube_JE2_BE2.png?dc507"
+        },
+        {
+            "name": "Mooshroom",
+            "alternativeNames": [
+                "mooshroom"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Red_Mooshroom_JE5_BE3.png/300px-Red_Mooshroom_JE5_BE3.png?de6c9"
+        },
+        {
+            "name": "Mule",
+            "alternativeNames": [
+                "mule"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Mule_JE5.png/300px-Mule_JE5.png?3c1f0"
+        },
+        {
+            "name": "Nautilus",
+            "alternativeNames": [
+                "nautilus"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Nautilus_Breathe_JE1_BE2.gif/300px-Nautilus_Breathe_JE1_BE2.gif?af9c0"
+        },
+        {
+            "name": "Ocelot",
+            "alternativeNames": [
+                "ocelot"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Ocelot_JE2_BE2.png/300px-Ocelot_JE2_BE2.png?7d798"
+        },
+        {
+            "name": "Ominous Item Spawner",
+            "alternativeNames": [
+                "ominous_item_spawner"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Ominous_Item_Spawner.png/300px-Ominous_Item_Spawner.png?653a4"
+        },
+        {
+            "name": "Panda",
+            "alternativeNames": [
+                "panda"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Panda_JE1_BE1.png/300px-Panda_JE1_BE1.png?31d00"
+        },
+        {
+            "name": "Parched",
+            "alternativeNames": [
+                "parched"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Parched_JE2.png/300px-Parched_JE2.png?70598"
+        },
+        {
+            "name": "Parrot",
+            "alternativeNames": [
+                "parrot"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Red_Parrot_JE1_BE1.png/300px-Red_Parrot_JE1_BE1.png?90904"
+        },
+        {
+            "name": "Phantom",
+            "alternativeNames": [
+                "phantom"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Phantom_JE2.gif?ed906"
+        },
+        {
+            "name": "Pig",
+            "alternativeNames": [
+                "pig"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Temperate_Pig_JE4_BE2.png/300px-Temperate_Pig_JE4_BE2.png?c550c"
+        },
+        {
+            "name": "Piglin",
+            "alternativeNames": [
+                "piglin"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Piglin_JE1.png/300px-Piglin_JE1.png?a498e"
+        },
+        {
+            "name": "Piglin Brute",
+            "alternativeNames": [
+                "piglin_brute"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Piglin_Brute_JE1.png/300px-Piglin_Brute_JE1.png?5d4a0"
+        },
+        {
+            "name": "Pillager",
+            "alternativeNames": [
+                "pillager"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Pillager_JE3.png/300px-Pillager_JE3.png?22662"
+        },
+        {
+            "name": "Polar Bear",
+            "alternativeNames": [
+                "polar_bear"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Polar_Bear_JE2_BE2.png/300px-Polar_Bear_JE2_BE2.png?29c45"
+        },
+        {
+            "name": "Pufferfish",
+            "alternativeNames": [
+                "pufferfish"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Pufferfish_small.gif/300px-Pufferfish_small.gif?f12fb"
+        },
+        {
+            "name": "Rabbit",
+            "alternativeNames": [
+                "rabbit"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Brown_Rabbit_BE4.png/300px-Brown_Rabbit_BE4.png?235b9"
+        },
+        {
+            "name": "Ravager",
+            "alternativeNames": [
+                "ravager"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Ravager_JE1.png/300px-Ravager_JE1.png?55aae"
+        },
+        {
+            "name": "Salmon",
+            "alternativeNames": [
+                "salmon"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Salmon.gif?cb24f"
+        },
+        {
+            "name": "Sheep",
+            "alternativeNames": [
+                "sheep"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/White_Sheep_JE5.png/300px-White_Sheep_JE5.png?a5000"
+        },
+        {
+            "name": "Shulker",
+            "alternativeNames": [
+                "shulker"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Shulker_JE1_BE1.png?02a87"
+        },
+        {
+            "name": "Silverfish",
+            "alternativeNames": [
+                "silverfish"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Silverfish_JE1_BE1.png/300px-Silverfish_JE1_BE1.png?83218"
+        },
+        {
+            "name": "Skeleton",
+            "alternativeNames": [
+                "skeleton"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Lefthandedskeleton.png/300px-Lefthandedskeleton.png?2221f"
+        },
+        {
+            "name": "Skeleton Horse",
+            "alternativeNames": [
+                "skeleton_horse"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Skeleton_Horse.png/300px-Skeleton_Horse.png?5e42a"
+        },
+        {
+            "name": "Slime",
+            "alternativeNames": [
+                "slime"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Slime_JE3_BE2.png/300px-Slime_JE3_BE2.png?5b6a7"
+        },
+        {
+            "name": "Sniffer",
+            "alternativeNames": [
+                "sniffer"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Sniffer_sniffsniff.gif/300px-Sniffer_sniffsniff.gif?1e613"
+        },
+        {
+            "name": "Snow Golem",
+            "alternativeNames": [
+                "snow_golem"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Snow_Golem_JE2_BE2.png/300px-Snow_Golem_JE2_BE2.png?23125"
+        },
+        {
+            "name": "Spider",
+            "alternativeNames": [
+                "spider"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Spider_JE5_BE4.png/300px-Spider_JE5_BE4.png?b090e"
+        },
+        {
+            "name": "Squid",
+            "alternativeNames": [
+                "squid"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Squid_JE2_BE2.gif?8a4c4"
+        },
+        {
+            "name": "Stray",
+            "alternativeNames": [
+                "stray"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Stray_JE2_BE4.png/300px-Stray_JE2_BE4.png?ef82d"
+        },
+        {
+            "name": "Strider",
+            "alternativeNames": [
+                "strider"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Strider_JE2_BE2.gif?f8244"
+        },
+        {
+            "name": "Tadpole",
+            "alternativeNames": [
+                "tadpole"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Tadpole_JE1.png/300px-Tadpole_JE1.png?94313"
+        },
+        {
+            "name": "Trader Llama",
+            "alternativeNames": [
+                "trader_llama"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/White_Trader_Llama.png/300px-White_Trader_Llama.png?5f954"
+        },
+        {
+            "name": "Tropical Fish",
+            "alternativeNames": [
+                "tropical_fish"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Clownfish.png/300px-Clownfish.png?1b6b5"
+        },
+        {
+            "name": "Turtle",
+            "alternativeNames": [
+                "turtle"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Turtle_JE3_BE1.png/300px-Turtle_JE3_BE1.png?373f9"
+        },
+        {
+            "name": "Vex",
+            "alternativeNames": [
+                "vex"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Vex_JE4.gif/300px-Vex_JE4.gif?da166"
+        },
+        {
+            "name": "Villager",
+            "alternativeNames": [
+                "villager"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Plains_Villager_Base_JE2.png/300px-Plains_Villager_Base_JE2.png?a2fcc"
+        },
+        {
+            "name": "Vindicator",
+            "alternativeNames": [
+                "vindicator"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Vindicator_attacking.png/300px-Vindicator_attacking.png?9b581"
+        },
+        {
+            "name": "Wandering Trader",
+            "alternativeNames": [
+                "wandering_trader"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Wandering_Trader_JE1_BE1.png/300px-Wandering_Trader_JE1_BE1.png?309b9"
+        },
+        {
+            "name": "Warden",
+            "alternativeNames": [
+                "warden"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/Warden.gif?d0f99"
+        },
+        {
+            "name": "Witch",
+            "alternativeNames": [
+                "witch"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Witch_JE4.png/300px-Witch_JE4.png?731d4"
+        },
+        {
+            "name": "Wither",
+            "alternativeNames": [
+                "wither"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Wither_JE2_BE2.png/300px-Wither_JE2_BE2.png?18bf8"
+        },
+        {
+            "name": "Wither Skeleton",
+            "alternativeNames": [
+                "wither_skeleton"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Wither_Skeleton_JE4_BE3.png/300px-Wither_Skeleton_JE4_BE3.png?9c107"
+        },
+        {
+            "name": "Wolf",
+            "alternativeNames": [
+                "wolf"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Wolf_JE2_BE2.png/300px-Wolf_JE2_BE2.png?ee46e"
+        },
+        {
+            "name": "Zoglin",
+            "alternativeNames": [
+                "zoglin"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zoglin_JE1.png/300px-Zoglin_JE1.png?6fd4b"
+        },
+        {
+            "name": "Zombie",
+            "alternativeNames": [
+                "zombie"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zombie_JE5_BE2.png/300px-Zombie_JE5_BE2.png?d709c"
+        },
+        {
+            "name": "Zombie Horse",
+            "alternativeNames": [
+                "zombie_horse"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zombie_Horse_JE6.png/300px-Zombie_Horse_JE6.png?b6882"
+        },
+        {
+            "name": "Zombie Nautilus",
+            "alternativeNames": [
+                "zombie_nautilus"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zombie_Nautilus_Breathe_JE1_BE2.gif/300px-Zombie_Nautilus_Breathe_JE1_BE2.gif?1d78e"
+        },
+        {
+            "name": "Zombie Villager",
+            "alternativeNames": [
+                "zombie_villager"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Plains_Zombie_Villager_Base_JE1.png/300px-Plains_Zombie_Villager_Base_JE1.png?7882a"
+        },
+        {
+            "name": "Zombified Piglin",
+            "alternativeNames": [
+                "zombified_piglin"
+            ],
+            "imageUrl": "https://minecraft.wiki/images/thumb/Zombified_Piglin_JE9.png/300px-Zombified_Piglin_JE9.png?7872f"
+        }
+    ]
+}

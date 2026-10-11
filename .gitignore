@@ -1,0 +1,5 @@
+*
+
+# Ignore everything but the JSON files in the repository
+!.gitignore
+!*.json
